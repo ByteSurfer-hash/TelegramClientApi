@@ -1,8 +1,8 @@
 from telethon import TelegramClient, events
 from telethon.tl.functions.channels import JoinChannelRequest
 
-api_id = 32300826
-api_hash = "24545744578321d45950ee2dcddaa598"
+api_id = 000
+api_hash = ""
 
 client = TelegramClient("session_name", api_id, api_hash)
 
